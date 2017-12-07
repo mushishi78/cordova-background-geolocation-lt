@@ -74,6 +74,8 @@
             <meta-data android:name="com.transistorsoft.locationmanager.license" android:value="$LICENSE" />
         </config-file>
 
+        <framework src="com.android.support:support-v4:26.+" value="gradle" />
+
         <framework src="src/android/build.gradle" custom="true" type="gradleReference" />
         <resource-file src="src/android/libs/tslocationmanager.aar" target="src/android/libs/tslocationmanager.aar" />
 

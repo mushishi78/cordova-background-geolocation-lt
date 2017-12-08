@@ -31,10 +31,6 @@
     {
       "name": "cordova",
       "version": ">=3.0.0"
-    },
-    {
-      "name": "cordova-android",
-      "version": ">=6.0.0"
     }
   ],
   "author": "Chris Scott, Transistor Software",
